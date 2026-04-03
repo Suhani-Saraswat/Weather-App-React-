@@ -1,16 +1,38 @@
-# React + Vite
+# 🌦️ Weather App React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![API](https://img.shields.io/badge/API-Weather%20Data-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue)
 
-Currently, two official plugins are available:
+A weather application built using React that fetches real-time weather information for different cities through an API and displays details such as temperature, humidity, and weather conditions. This project was created to practice React component structure, state handling, API integration, and dynamic UI updates in frontend development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Search weather by city
+* Real-time temperature display
+* Humidity and weather condition details
+* Dynamic UI updates using React state
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technologies Used
+
+* React.js
+* JavaScript
+* CSS
+* Weather API
+
+---
+
+## 🎯 Learning Purpose
+
+This project was created to understand API integration, React state management, and dynamic rendering through a practical weather application.
+
+---
+
+## 👩‍💻 Author
+
+**Suhani Saraswat**
